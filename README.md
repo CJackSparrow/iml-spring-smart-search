@@ -4,4 +4,4 @@ https://github.com/sipios/spring-search
 
 mapping query
 
-localhost:8888/user?search= function.id:1 AND name:*name3*
+localhost:8888/user?search= function.id:1 AND name:\*name3\*
